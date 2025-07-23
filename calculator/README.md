@@ -1,1 +1,1 @@
-A collection of mini Python projects and exercises to practice and demonstrate core programming concepts.
+A simple calculator performing basic arethmetic operatorions such as addition, subtraction, multiplication and division using user input
